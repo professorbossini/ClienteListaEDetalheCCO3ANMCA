@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 public class DetalhesActivity extends AppCompatActivity {
 
+    
     private TextView exibeNomeTextView;
     private static String nome;
     @Override
